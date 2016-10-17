@@ -1,0 +1,54 @@
+body {
+	padding-top: 6.0em;
+	padding-left: 1.4em;
+	font-family: Arial, Helvetica, Geneva, SunSans-Regular, sans-serif color : black;
+	background-color: white
+}
+
+img.uddi4jlogo {
+	position: absolute;
+	top: 2em;
+	left: 2em;
+	border: 0;
+}
+
+h1 {
+	background-color: #ccddff;
+	PADDING-BOTTOM: 1px;
+	PADDING-LEFT: 4px;
+	PADDING-RIGHT: 4px;
+	PADDING-TOP: 1px;
+	font-family: Arial, Helvetica, Geneva, SunSans-Regular, sans-serif
+}
+
+h2 {
+	background-color: #ccddff;
+	PADDING-BOTTOM: 1px;
+	PADDING-LEFT: 4px;
+	PADDING-RIGHT: 4px;
+	PADDING-TOP: 1px;
+	font-family: Arial, Helvetica, Geneva, SunSans-Regular, sans-serif;
+}
+
+h3 {
+	background-color: #ccddff;
+	PADDING-BOTTOM: 1px;
+	PADDING-LEFT: 4px;
+	PADDING-RIGHT: 4px;
+	PADDING-TOP: 1px;
+	font-family: Arial, Helvetica, Geneva, SunSans-Regular, sans-serif;
+}
+
+a:link {
+	color: blue
+}
+
+a:visited {
+	color: purple
+}
+
+address {
+	margin-top: 1em;
+	padding-top: 1em;
+	border-top: thin dotted
+}

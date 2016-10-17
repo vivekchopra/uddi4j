@@ -1,0 +1,12 @@
+org.uddi4j
+org.uddi4j.client
+org.uddi4j.datatype
+org.uddi4j.datatype.assertion
+org.uddi4j.datatype.binding
+org.uddi4j.datatype.business
+org.uddi4j.datatype.service
+org.uddi4j.datatype.tmodel
+org.uddi4j.request
+org.uddi4j.response
+org.uddi4j.transport
+org.uddi4j.util
